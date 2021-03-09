@@ -8,28 +8,28 @@
 
 #### API realiza: ####
 
--Envio de Emails
--Testes Automatizados
--Tratamento de Erro
--Validações, etc. . .
+-Envio de Emails <br />
+-Testes Automatizados <br />
+-Tratamento de Erro <br />
+-Validações, etc. . . <br />
 
 #### Bibliotecas Utilizadas: ####
 
--Express
--TypeORM
--Nodemailer
--SQLite3
--Yup
--Jest
--Handlebars
+-Express <br />
+-TypeORM <br />
+-Nodemailer <br />
+-SQLite3 <br />
+-Yup <br />
+-Jest <br />
+-Handlebars <br />
 
  #### Linguagem Utilizada: ####
 
--TypeScript
+-TypeScript <br />
 
 #### Ferramentas Utilizadas: ####
 
--Visual Studio Code
--Insomnia
--BeeKepper Studio
--Ethereal
+-Visual Studio Code <br />
+-Insomnia <br />
+-BeeKepper Studio <br />
+-Ethereal <br />
