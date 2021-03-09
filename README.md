@@ -5,11 +5,17 @@
 ![alt text](https://nextlevelweek.com/_next/image?url=%2Fimages%2Fcoding.png&w=640&q=75)
 
  ### Fiz a trilha de NodeJS onde foi desenvolvido uma API completa para realizar pesquisa de satisfação de uma determinada empresa. ###
+ 
+ <span>
+ <img src="https://github.com/ElnatanSouza/NLW-4_Node.js/blob/main/images/Ethereal.png" width="304" />
+ <img src="https://github.com/ElnatanSouza/NLW-4_Node.js/blob/main/images/Test.png" width="304" />
+ <img src="https://github.com/ElnatanSouza/NLW-4_Node.js/blob/main/images/insomnia.png" width="304"  />
+ </span>
 
 #### API realiza: ####
 
 -Envio de Emails <br />
--Testes Automatizados <br />
+-Testes Automatizados <br /> 
 -Tratamento de Erro <br />
 -Validações, etc. . . <br />
 
@@ -32,4 +38,4 @@
 -Visual Studio Code <br />
 -Insomnia <br />
 -BeeKepper Studio <br />
--Ethereal <br />
+-Ethereal <br /> <br />
